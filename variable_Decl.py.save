@@ -1,0 +1,14 @@
+x=20
+Name="Ram"
+y=245.6
+z=98859843
+
+print("Number",x)
+print("String",Name)
+print("Float",y)
+print("Double",z)
+
+print(type(x))
+
+
+
